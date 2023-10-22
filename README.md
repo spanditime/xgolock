@@ -1,0 +1,2 @@
+# xgolock
+alternative to xautolock
